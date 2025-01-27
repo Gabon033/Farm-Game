@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="FarmGame.exe" version="1.0.0.0" publicKeyToken="c9f8383f1e78f66d" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="FarmGame" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="FarmGame.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FarmGame.exe" size="3733472">
+      <assemblyIdentity name="FarmGame" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>kROiULk/DzGKjPInrFYYA2bZAYw+MsC09O28HiSN0L0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="FarmGame.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-QDNKN3C\gabon" issuerKeyHash="aa74737e0e46bf6d44d4df8222d40e069b48d9af" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>QdziocHgBIrX/pfJ8gBexUlRR9tZcIViHaKIpr3eJ/0=</DigestValue></Reference></SignedInfo><SignatureValue>TWlpbJI/f8ghhohzxKlE1nbNRhz2v6SceKvy9kV31pxKlpWGkTlj4NYnFvHQbSkdVlBcNJXouszjPAIcHKfOud4/RsLYrv0Eiv4C/npuOrB/wCSR3zLR9DRUONKzvzsFWPzQyAfLWtn46uh8zhCWAaiz/GoWiid0Yv+kLTQSVbc=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>60490Bnf3crEhnFZ3u+LzPwMRgaTskqd/z1FkC1NzhM+yR/p1lUj+80k3jGflmgvoUQCKEbzh8yBYksiVy8iM4i0VXsMlgdjTgPiUAeDFpJ5GIHBuzl0ceGIoAxG5STQUNF+DANxZMCOYtT3lVWfXKaPxKdBpD2er8QazVcrzcU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="fd27debda688a21d62857059db475149c55e00f2c997fed78a04e0c1a1e2dc41" Description="" Url=""><as:assemblyIdentity name="FarmGame.exe" version="1.0.0.0" publicKeyToken="c9f8383f1e78f66d" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-QDNKN3C\gabon</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>tmYkhDuvOrrykhOujRRsMDBGOPbXHFE+qDw52OryzIw=</DigestValue></Reference></SignedInfo><SignatureValue>y0WpZiB16w0g7YrnWcE/3QXJvEKKL+z9t9VhDsfmRVci2Ib8aYwYivIJZyqGvsCNWU3JUl5M7oAlj00Lgj3sgFGoE/5Cigsg7B38AnjQqT+rZwV/QuStp7WVZEOrEziCZQ/lkVxsfFVsutVs62qg4Mo4ttpW7ENws5iqC2ONlPk=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>60490Bnf3crEhnFZ3u+LzPwMRgaTskqd/z1FkC1NzhM+yR/p1lUj+80k3jGflmgvoUQCKEbzh8yBYksiVy8iM4i0VXsMlgdjTgPiUAeDFpJ5GIHBuzl0ceGIoAxG5STQUNF+DANxZMCOYtT3lVWfXKaPxKdBpD2er8QazVcrzcU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQbp30nx0uybpFI/80/RDkBzANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFEARABOAEsATgAzAEMAXABnAGEAYgBvAG4wHhcNMjIwNTEyMTIwMTE4WhcNMjMwNTEyMTgwMTE4WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFEARABOAEsATgAzAEMAXABnAGEAYgBvAG4wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOtOPdAZ393KxIZxWd7vi8z8DEYGk7JKnf89RZAtTc4TPskf6dZVI/vNJN4xn5ZoL6FEAihG84fMgWJLIlcvIjOItFV7DJYHY04D4lAHgxaSeRiBwbs5dHHhiKAMRuUk0FDRfgwDcWTAjmLU95VVn1ymj8SnQaQ9nq/EGs1XK83FAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAAlkdSfj7JaC5a351+bgngL1o4wuLUI5JTEQUGv8PtO4qtAG9nBvhE6FlYObmfwmZFn917pMLG96riCppLrs9djV5Bd39ZA4lkk4flIPJUfwPETT5pLn4fXj3SJkAL1O1fquoHAb4Xz3D4r1n6hntN+iLN0uuR6vlCKvdU6yG2Ns=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

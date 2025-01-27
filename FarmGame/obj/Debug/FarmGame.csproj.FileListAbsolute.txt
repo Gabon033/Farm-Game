@@ -1,0 +1,41 @@
+C:\Users\gabon\Desktop\FarmGame\Casino\bin\Debug\FarmGame.exe.config
+C:\Users\gabon\Desktop\FarmGame\Casino\bin\Debug\FarmGame.exe
+C:\Users\gabon\Desktop\FarmGame\Casino\bin\Debug\FarmGame.pdb
+C:\Users\gabon\Desktop\FarmGame\Casino\obj\Debug\FarmGame.csproj.AssemblyReference.cache
+C:\Users\gabon\Desktop\FarmGame\Casino\obj\Debug\FarmGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabon\Desktop\FarmGame\Casino\obj\Debug\FarmGame.Form1.resources
+C:\Users\gabon\Desktop\FarmGame\Casino\obj\Debug\FarmGame.Properties.Resources.resources
+C:\Users\gabon\Desktop\FarmGame\Casino\obj\Debug\FarmGame.csproj.GenerateResource.cache
+C:\Users\gabon\Desktop\FarmGame\Casino\obj\Debug\FarmGame.csproj.CoreCompileInputs.cache
+C:\Users\gabon\Desktop\FarmGame\Casino\obj\Debug\FarmGame.exe
+C:\Users\gabon\Desktop\FarmGame\Casino\obj\Debug\FarmGame.pdb
+C:\Users\gabon\Desktop\FarmGame\FarmGame\bin\Debug\FarmGame.exe.config
+C:\Users\gabon\Desktop\FarmGame\FarmGame\bin\Debug\FarmGame.exe
+C:\Users\gabon\Desktop\FarmGame\FarmGame\bin\Debug\FarmGame.pdb
+C:\Users\gabon\Desktop\FarmGame\FarmGame\obj\Debug\FarmGame.csproj.AssemblyReference.cache
+C:\Users\gabon\Desktop\FarmGame\FarmGame\obj\Debug\FarmGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabon\Desktop\FarmGame\FarmGame\obj\Debug\FarmGame.Form1.resources
+C:\Users\gabon\Desktop\FarmGame\FarmGame\obj\Debug\FarmGame.Properties.Resources.resources
+C:\Users\gabon\Desktop\FarmGame\FarmGame\obj\Debug\FarmGame.csproj.GenerateResource.cache
+C:\Users\gabon\Desktop\FarmGame\FarmGame\obj\Debug\FarmGame.csproj.CoreCompileInputs.cache
+C:\Users\gabon\Desktop\FarmGame\FarmGame\obj\Debug\FarmGame.exe
+C:\Users\gabon\Desktop\FarmGame\FarmGame\obj\Debug\FarmGame.pdb
+C:\Users\gabon\Desktop\FarmGame\FarmGame\bin\Debug\FarmGame.exe.manifest
+C:\Users\gabon\Desktop\FarmGame\FarmGame\bin\Debug\FarmGame.application
+C:\Users\gabon\Desktop\FarmGame\FarmGame\obj\Debug\FarmGame.exe.manifest
+C:\Users\gabon\Desktop\FarmGame\FarmGame\obj\Debug\FarmGame.application
+C:\Users\gabon\Desktop\Atestat FarnGame - Truscanu Sebastian Gabriel\FarmGame\FarmGame\bin\Debug\FarmGame.exe.config
+C:\Users\gabon\Desktop\Atestat FarnGame - Truscanu Sebastian Gabriel\FarmGame\FarmGame\bin\Debug\FarmGame.exe.manifest
+C:\Users\gabon\Desktop\Atestat FarnGame - Truscanu Sebastian Gabriel\FarmGame\FarmGame\bin\Debug\FarmGame.application
+C:\Users\gabon\Desktop\Atestat FarnGame - Truscanu Sebastian Gabriel\FarmGame\FarmGame\bin\Debug\FarmGame.exe
+C:\Users\gabon\Desktop\Atestat FarnGame - Truscanu Sebastian Gabriel\FarmGame\FarmGame\bin\Debug\FarmGame.pdb
+C:\Users\gabon\Desktop\Atestat FarnGame - Truscanu Sebastian Gabriel\FarmGame\FarmGame\obj\Debug\FarmGame.csproj.AssemblyReference.cache
+C:\Users\gabon\Desktop\Atestat FarnGame - Truscanu Sebastian Gabriel\FarmGame\FarmGame\obj\Debug\FarmGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabon\Desktop\Atestat FarnGame - Truscanu Sebastian Gabriel\FarmGame\FarmGame\obj\Debug\FarmGame.Form1.resources
+C:\Users\gabon\Desktop\Atestat FarnGame - Truscanu Sebastian Gabriel\FarmGame\FarmGame\obj\Debug\FarmGame.Properties.Resources.resources
+C:\Users\gabon\Desktop\Atestat FarnGame - Truscanu Sebastian Gabriel\FarmGame\FarmGame\obj\Debug\FarmGame.csproj.GenerateResource.cache
+C:\Users\gabon\Desktop\Atestat FarnGame - Truscanu Sebastian Gabriel\FarmGame\FarmGame\obj\Debug\FarmGame.csproj.CoreCompileInputs.cache
+C:\Users\gabon\Desktop\Atestat FarnGame - Truscanu Sebastian Gabriel\FarmGame\FarmGame\obj\Debug\FarmGame.exe.manifest
+C:\Users\gabon\Desktop\Atestat FarnGame - Truscanu Sebastian Gabriel\FarmGame\FarmGame\obj\Debug\FarmGame.application
+C:\Users\gabon\Desktop\Atestat FarnGame - Truscanu Sebastian Gabriel\FarmGame\FarmGame\obj\Debug\FarmGame.exe
+C:\Users\gabon\Desktop\Atestat FarnGame - Truscanu Sebastian Gabriel\FarmGame\FarmGame\obj\Debug\FarmGame.pdb

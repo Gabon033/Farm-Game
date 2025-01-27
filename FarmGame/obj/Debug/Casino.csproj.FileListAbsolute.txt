@@ -1,0 +1,11 @@
+C:\Users\gabon\OneDrive\Pictures\NFTS\Casino\Casino\Casino\bin\Debug\Casino.exe.config
+C:\Users\gabon\OneDrive\Pictures\NFTS\Casino\Casino\Casino\bin\Debug\Casino.exe
+C:\Users\gabon\OneDrive\Pictures\NFTS\Casino\Casino\Casino\bin\Debug\Casino.pdb
+C:\Users\gabon\OneDrive\Pictures\NFTS\Casino\Casino\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
+C:\Users\gabon\OneDrive\Pictures\NFTS\Casino\Casino\Casino\obj\Debug\Casino.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabon\OneDrive\Pictures\NFTS\Casino\Casino\Casino\obj\Debug\Casino.Form1.resources
+C:\Users\gabon\OneDrive\Pictures\NFTS\Casino\Casino\Casino\obj\Debug\Casino.Properties.Resources.resources
+C:\Users\gabon\OneDrive\Pictures\NFTS\Casino\Casino\Casino\obj\Debug\Casino.csproj.GenerateResource.cache
+C:\Users\gabon\OneDrive\Pictures\NFTS\Casino\Casino\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\gabon\OneDrive\Pictures\NFTS\Casino\Casino\Casino\obj\Debug\Casino.exe
+C:\Users\gabon\OneDrive\Pictures\NFTS\Casino\Casino\Casino\obj\Debug\Casino.pdb

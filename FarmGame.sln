@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C96BC3F5-6EA5-4BAA-BEF4-5C695CD3F529}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarmGame", "FarmGame\FarmGame.csproj", "{D58D584B-3F63-46F2-8FA7-16BDE2F20BB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D58D584B-3F63-46F2-8FA7-16BDE2F20BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D58D584B-3F63-46F2-8FA7-16BDE2F20BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D58D584B-3F63-46F2-8FA7-16BDE2F20BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D58D584B-3F63-46F2-8FA7-16BDE2F20BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C45E8143-9E4F-41F3-98CA-5888FE9DB534}
+	EndGlobalSection
+EndGlobal
